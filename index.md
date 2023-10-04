@@ -6,9 +6,5 @@ Worked on computer vision project where power pole images were taken and issues 
 
 ### Small image
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Octocat](https://github.com/vijay-hanuman/cayman/blob/master/assets/css/powerpole.png)
 
